@@ -67,25 +67,20 @@
 
 ## Отечественные аналоги
 
-&emsp; В качестве сервиса-аналога был выбран Yandex Cloud, на оффициальном сайте которого есть [таблица с аналогами соответствующих сервисов Amazon Web Services](https://cloud.yandex.com/en/docs/overview/platform-comparison/aws). Некоторые аналоги не представлены на сайте и были найдены отдельно.
+&emsp; В качестве сервиса-аналога был выбран Yandex Cloud, на оффициальном сайте которого есть [таблица с аналогами соответствующих сервисов Microsoft Azure](https://cloud.yandex.ru/docs/overview/platform-comparison/azure). Некоторые аналоги не представлены на сайте и были найдены отдельно.
 
-| Amazon Web Services | Yandex Cloud |
+| Microsoft Azure | Yandex Cloud |
 | --- | --- |
-| Amazon EC2 | Yandex Compute Cloud |
-| Amazon DAX | Yandex Tank |
-| Amazon DynamoDB | Yandex Managed Service for YDB |
-| AWS Database Migration Service | Yandex Data Transfer |
-| AWS Device Farm | Yandex Load Testing |
-| IoTDeviceManagement | - |
-| APNFee | - |
-| Amazon Translate | Yandex Translate |
-| Amazon Transcribe | Yandex SpeechKit |
-| AWS ClounHSM | Yandex Key Management Service |
-| AWS CodeBuild | частично Yandex Cloud |
-| AWS Comprehend | - |
-| Amazon Comprehend Medical | - |
-| Amazon Backup | Yandex Cloud Backup |
+| Data Manager | Yandex DataSphere |
+| Machine Learning Studio | Yandex DataSphere |
+| Azure Bastion | частично Yandex Compute Cloud |
+| Azure API Manager | Yandex Cloud API Gateway |
+| Azure Monitor | Yandex Monitoring |
+| Azure Backup | Yandex Cloud Backup |
+| Azure Business Analytics | Yandex Cloud DataLens |
+| Asure Virtual Machines Licenses | Yandex Compute Cloud |
+| Azure Virtual Machines | Yandex Compute Cloud |
 
 # Выводы
 
-&emsp; В ходе работы были изчучены сервисы Amazon с использованием информации из официальной документации. Была построена таблица, содержащая подробную информацию о сервисах Amazon согласно модели ATUM. Были рассмотрены отечественные аналоги в виде сервисов Yandex Cloud и сделан вывод о возможности перехода на них, хоть и не полноценного и бесшовного из-за отсутствия некоторых аналогов.
+&emsp; В ходе работы были изчучены сервисы Microsoft Azure с использованием информации из официальной документации. Была построена таблица, содержащая подробную информацию о сервисах Microsoft Azure согласно модели ATUM. Были рассмотрены отечественные аналоги в виде сервисов Yandex Cloud и сделан вывод о возможности перехода на них, хоть и не полноценного и бесшовного из-за отсутствия некоторых аналогов.
