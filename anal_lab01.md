@@ -17,4 +17,8 @@
 
 ## Ход работы
 
+Была дана следующая таблица:
+
+<img width="811" alt="image" src="https://github.com/Kostik2302/clouds/assets/113085945/72ef1e2a-58c8-41bf-8630-c6c3688b10f8">
+
 
